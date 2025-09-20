@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Alex Morales! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://miro.medium.com/v2/resize:fit:1000/0*wv7TeAlj5oHfZFRa.png)
 
 ## About Me 🚀
 
